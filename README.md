@@ -14,6 +14,11 @@ This repository contains the code and dataset for the analysis of the electric v
 ![sql Preview](Screenshot%20(171).png)
 ![sql Preview](Screenshot%20(172).png)
 ![sql Preview](Screenshot%20(173).png)
+![sql Preview](Screenshot%20(174).png)
+![sql Preview](Screenshot%20(175).png)
+![sql Preview](Screenshot%20(176).png)
+![sql Preview](Screenshot%20(177).png)
+![sql Preview](Screenshot%20(178).png)
 ## Key Findings
 
 - The total number of electric vehicles has shown a significant increase across different states and counties.
