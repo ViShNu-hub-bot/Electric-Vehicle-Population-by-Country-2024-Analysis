@@ -1,10 +1,19 @@
 # Electric Vehicle Population Analysis for 2024
 
 ## Overview
-
 This repository contains the code and dataset for the analysis of the electric vehicle population by country for the year 2024. The analysis provides insights into the growth and distribution of electric vehicles across different states and counties.
 ## Preview
-
+![sql Preview](Screenshot%20(163).png)
+![sql Preview](Screenshot%20(164).png)
+![sql Preview](Screenshot%20(165).png)
+![sql Preview](Screenshot%20(166).png)
+![sql Preview](Screenshot%20(167).png)
+![sql Preview](Screenshot%20(168).png)
+![sql Preview](Screenshot%20(169).png)
+![sql Preview](Screenshot%20(170).png)
+![sql Preview](Screenshot%20(171).png)
+![sql Preview](Screenshot%20(172).png)
+![sql Preview](Screenshot%20(173).png)
 ## Key Findings
 
 - The total number of electric vehicles has shown a significant increase across different states and counties.
