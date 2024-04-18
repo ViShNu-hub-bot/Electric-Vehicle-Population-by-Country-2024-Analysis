@@ -56,7 +56,3 @@ The dataset used for this analysis is available in the repository. It contains i
 ## SQL Code
 
 The SQL code used for the analysis is provided in the repository. It includes queries for various aspects of the analysis, such as counting electric vehicles by state and year, calculating percentages, and more.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
